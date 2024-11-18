@@ -1,5 +1,6 @@
-# Helloooo:
-I am an freelancer and also a student <br>Always looking for new fun projects to contribute <br>
+# 👋Hii, I'm Ishan!!
+I am an freelancer and also a student <br>Always looking for new fun projects to work on.  <br>
+An machine learning enthusiast who is learning more everyday.
 
 
 ## 🌐 Socials:
